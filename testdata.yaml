@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru   # сайт с которым будем работать
+#driver_path: /home/alexey/Рабочий стол/учёба/Автотесты Вэб-приложений/Classwork2/chromedriver           #путь к драйверу
+sleep_time: 2                       # параметр отвечающий за задержку открытия сайта
+
+browser: chrome  
